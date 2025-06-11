@@ -94,11 +94,11 @@ Easily adapt your IT infrastructure as your business grows and evolves.
 
 While this guide provides valuable insights, partnering with experienced IT professionals ensures optimal results. Here are specialized services that complement this guide:
 
-- **[Fully managed cloud infrastructure services](https://itecsonline.com/**/managed-cloud/managed-cloud-hosting**)** - Scalable cloud solutions for modern businesses
-- **[Virtual desktop infrastructure (VDI) solutions](https://itecsonline.com/**/managed-cloud/virtual-desktop-hosting**)** - Scalable cloud solutions for modern businesses
-- **[Cloud-based application hosting services](https://itecsonline.com/**/managed-cloud/application-hosting**)** - Scalable cloud solutions for modern businesses
-- **[Specialized QuickBooks cloud hosting](https://itecsonline.com/**/managed-cloud/quickbooks-hosting**)** - Scalable cloud solutions for modern businesses
-- **[Dedicated private cloud environments](https://itecsonline.com/**/managed-cloud/private-cloud-hosting**)** - Scalable cloud solutions for modern businesses
+- **[Fully managed cloud infrastructure services](https://itecsonline.com/managed-cloud/managed-cloud-hosting)** - Scalable cloud solutions for modern businesses
+- **[Virtual desktop infrastructure (VDI) solutions](https://itecsonline.com/managed-cloud/virtual-desktop-hosting)** - Scalable cloud solutions for modern businesses
+- **[Cloud-based application hosting services](https://itecsonline.com/managed-cloud/application-hosting)** - Scalable cloud solutions for modern businesses
+- **[Specialized QuickBooks cloud hosting](https://itecsonline.com/managed-cloud/quickbooks-hosting)** - Scalable cloud solutions for modern businesses
+- **[Dedicated private cloud environments](https://itecsonline.com/managed-cloud/private-cloud-hosting)** - Scalable cloud solutions for modern businesses
 
 
 ## Additional Resources
